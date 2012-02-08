@@ -4,7 +4,9 @@ The idea with this project was to keep it lightweight in its implementation sinc
 
 http://techtv.mit.edu/videos/12392-inverted-platform-lobby-7-competition-entry
 
-Contributing designers and implementers (and _actual_ MIT students):
+All pieces of this project with the exception of the JSAPI implementation are available freely and are released under the MIT License (see LICENSE). While this project is not complicated, if you use any of the code in wholesale format, please be sure to give credit to the below listed project developers.
+
+Project Developers (and _actual_ MIT students):
 Ann Woods
 Nadine Volicer
 
