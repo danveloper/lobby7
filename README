@@ -1,0 +1,12 @@
+This is the source code for the Inverted Platform project that won the MIT 2011 Lobby7 Competition.
+
+The idea with this project was to keep it lightweight in its implementation since it would run as a background RESTful web service on a laptop.
+
+http://techtv.mit.edu/videos/12392-inverted-platform-lobby-7-competition-entry
+
+Contributing designers and implementers (and _actual_ MIT students):
+Ann Woods
+Nadine Volicer
+
+Code author:
+Dan Woods
